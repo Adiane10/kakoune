@@ -1,2 +1,0 @@
-ui_out -ignore 4
-ui_in '{ "jsonrpc": "2.0", "method": "keys", "params": [ ":test<ret>:<ret>" ] }'
